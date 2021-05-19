@@ -1,6 +1,12 @@
 .App {
   text-align: center;
+  background-image: url('https://s-i.huffpost.com/gen/4946162/images/o-STACK-OF-BOOKS-facebook.jpg');
+  background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
 }
+
+
 
 .App-logo {
   height: 40vmin;
